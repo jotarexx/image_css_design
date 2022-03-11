@@ -1,13 +1,11 @@
 *{
   margin: 0;
 }
-
 .container{
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
 .head{
   width: 100px;
   height: 250px;
